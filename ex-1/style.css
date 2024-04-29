@@ -1,1 +1,28 @@
 /* Start coding here */
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  color: rgb(15, 81, 156);
+}
+
+.header {
+  background-color: rgb(137, 186, 241);
+  padding: 20px;
+}
+
+.blog {
+  border: 1px solid black;
+  width: 600px;
+  height: 400px;
+  margin: 40px;
+  padding: 20px;
+  background-color: rgb(137, 186, 241);
+}
+
+.blog img {
+  width: 100%;
+  height: 60%;
+  background-color: rgb(137, 186, 241);
+}
